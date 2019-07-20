@@ -1,0 +1,9 @@
+body{background-color: black;
+color:red;
+font-size: 230%;
+text-align: center;
+padding-top: 39.6%;
+background: linear-gradient(55deg,red,black,black,red);
+background-repeat: repeat-y;}
+h1{color: red;
+font-size: 70%;}
